@@ -1,10 +1,10 @@
 <package>
   <description brief="ARL_sphero_command">
 
-     ARL_sphero_command
+     ARL_sphero_command is a node that allows the command of a Sphero robot. Currently it suports joy and twist messages.
 
   </description>
-  <author></author>
+  <author>Parker Conroy</author>
   <license>BSD</license>
   <review status="unreviewed" notes=""/>
   <url>http://ros.org/wiki/ARL_sphero_command</url>
@@ -12,7 +12,6 @@
   <depend package="std_msgs"/>
   <depend package="geometry_msgs"/>
   <depend package="sensor_msgs"/>
-
 </package>
 
 
